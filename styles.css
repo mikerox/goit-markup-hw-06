@@ -342,7 +342,6 @@ ul {
     border: 1px solid var(--IRIS);
 }
 
-
 .service-text:hover {
     border: 1px solid var(--IRIS);
 }
@@ -927,4 +926,20 @@ form {
     gap: 16px;
     padding-left: 269px;
     padding-top: 16px;
+}
+
+/*Footer Subscribe*/
+/* .footer-sub {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 264px;
+    height: 40px;
+    margin-left: 165px;
+
+} */
+
+.footer-sub-text {
+    padding-left: 192px;
 }
